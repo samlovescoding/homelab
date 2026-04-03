@@ -10,7 +10,7 @@ new class extends Component
 
 <div>
   <title>Welcome</title>
-  <h1 class="text-4xl">Homelab Server</h1>
+  <h1 class="text-4xl">Rupinder Server</h1>
 
   <flux:spacer class="h-12" />
 
